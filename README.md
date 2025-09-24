@@ -31,7 +31,7 @@ Each folder includes:
 
 ---
 
-#📖 Learning Goals
+# 📖 Learning Goals
 
 By completing these exercises, the objectives are to:
 
@@ -43,5 +43,5 @@ By completing these exercises, the objectives are to:
 
 ---
 
-#👩‍💻 
+# 👩‍💻 
 Created as part of Software Testing [Test i Qualitat de Software] – [5th Semester, 3r year Informatic Engineering].
